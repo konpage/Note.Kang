@@ -1,2 +1,4 @@
-# popcodes
-nice codes
+## Summary
+* for personal notes
+* for pop codes
+* for dessign pattern
